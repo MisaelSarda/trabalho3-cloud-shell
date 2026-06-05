@@ -68,4 +68,4 @@ As dificuldades foram a parametrização do docker-compose.yml pois precisa s=es
 
 ## Utilização de IA
 
-Utilizei como auxilio no projeto focado na resoluçaõ de erros de sintaxe para o Docker, obter as explicações dos erros e formatar os scripts conforme o exigido.
+Utilizei (GEMINI) como auxilio no projeto focado na resoluçaõ de erros de sintaxe para o Docker, obter as explicações dos erros e formatar os scripts conforme o exigido.
