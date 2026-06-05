@@ -1,6 +1,6 @@
-# 📦 Projeto: Trabalho DevOps - Sistema de Doação de Roupas e Alimentos
+# Projeto: Trabalho DevOps - Sistema de Doação de Roupas e Alimentos
 
-## 👨 Informações do Aluno
+## Informações do Aluno
 - Nome: Misael Pablo Sarda
 - Instituição: Unidavi
 - Tema do Trabalho: Sistema de Doação de Roupas e Alimentos
