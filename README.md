@@ -66,6 +66,6 @@ No link https://hub.docker.com/repository/docker/misaelsarda/sistema-doacoes/gen
 
 As dificuldades foram a parametrização do docker-compose.yml pois precisa s=estar certo para dar sequência no trabalho, a correta configuração do username para enviar a imagem para o DockerHub.
 
-## utilização de IA
+## Utilização de IA
 
 Utilizei como auxilio no projeto focado na resoluçaõ de erros de sintaxe para o Docker, obter as explicações dos erros e formatar os scripts conforme o exigido.
