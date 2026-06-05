@@ -1,0 +1,44 @@
+==========================================================
+           RELATORIO OPERACIONAL DO SISTEMA               
+==========================================================
+Data e Hora: 2026-06-05 22:48:09
+Projeto: Sistema de Doacao de Roupas e Alimentos
+Tema: Doacao de Roupas e Alimentos
+==========================================================
+
+--- 1. Espaco em Disco ---
+Filesystem      Size  Used Avail Use% Mounted on
+overlay        1007G  2.7G  954G   1% /
+
+--- 2. Uso dos Diretorios do Sistema ---
+0	/app/doacoes/alimentos
+0	/app/doacoes/dados
+0	/app/doacoes/logs
+0	/app/doacoes/publicacao
+0	/app/doacoes/roupas
+
+--- 3. Estado do Servidor Web (Apache) ---
+Estado: ATIVO (A correr)
+
+--- 4. Ultimos Backups Gerados ---
+total 0
+-rw-r--r-- 1 root root 339 Jun  5 21:43 backup_doacoes_2026-06-05_21-43.tar.gz
+
+--- 5. Ultimos Logs Registados ---
+-rw-r--r-- 1 root root 854 Jun  5 22:13 monitoramento.log
+-rw-r--r-- 1 root root 202 Jun  5 22:13 permissoes.log
+-rw-r--r-- 1 root root 300 Jun  5 21:49 processos.log
+-rw-r--r-- 1 root root 854 Jun  5 22:48 relatorio_execucao.txt
+-rw-r--r-- 1 root root  62 Jun  5 20:44 update.log
+
+--- 6. Ficheiros Publicados (Deploy) ---
+total 4.0K
+-rwxr-xr-x 1 www-data www-data 604 Jun  5 22:22 index.html
+-rwxr-xr-x 1 www-data www-data   0 Jun  5 22:22 sobre.html
+
+--- 7. Utilizadores e Permissoes (Equipa Doacoes) ---
+equipa_doacoes:x:1001:
+drwxrwx--- 1 root equipa_doacoes 4096 Jun  5 21:40 /app/doacoes/
+==========================================================
+Fim do Relatorio
+==========================================================

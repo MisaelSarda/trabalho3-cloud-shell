@@ -1,0 +1,9 @@
+=====================================
+Analise de Processos - 2026-06-05 21:49:08
+Apache2: ATIVO
+    PID COMMAND         %MEM %CPU
+      1 tail             0.0  0.0
+   4947 apache2          0.0  0.0
+   4944 apache2          0.0  0.0
+   4948 apache2          0.0  0.0
+      8 bash             0.0  0.0

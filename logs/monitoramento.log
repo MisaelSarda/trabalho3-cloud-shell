@@ -1,0 +1,18 @@
+=====================================
+Relatorio de Monitorizacao - 2026-06-05 21:51:34
+--- Memoria RAM ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       908Mi       6.4Gi        17Mi       549Mi       6.7Gi
+Swap:          2.0Gi          0B       2.0Gi
+--- Espaco em Disco ---
+Filesystem      Size  Used Avail Use% Mounted on
+overlay        1007G  2.7G  954G   1% /
+=====================================
+Relatorio de Monitorizacao - 2026-06-05 22:13:39
+--- Memoria RAM ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       918Mi       6.4Gi        17Mi       538Mi       6.7Gi
+Swap:          2.0Gi          0B       2.0Gi
+--- Espaco em Disco ---
+Filesystem      Size  Used Avail Use% Mounted on
+overlay        1007G  2.7G  954G   1% /

@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  linux_doacoes:
+    build: .
+    container_name: trabalho03-linux-doacoes
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/app
+      - volume_doacoes:/var/www/html
+    tty: true
+
+volumes:
+  volume_doacoes:
